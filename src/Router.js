@@ -1,10 +1,10 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import { Text, SafeAreaView } from 'react-native'
 
 export default function Router() {
     return (
-        <View>
+        <SafeAreaView>
             <Text>Router</Text>
-        </View>
+        </SafeAreaView>
     )
 }
