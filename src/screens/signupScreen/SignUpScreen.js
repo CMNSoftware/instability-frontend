@@ -29,6 +29,7 @@ export default function SignUpScreen() {
             </View>
         </SafeAreaView>
     );
+
 }
 
 
